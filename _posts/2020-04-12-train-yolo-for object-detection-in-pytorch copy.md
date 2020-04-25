@@ -1,5 +1,5 @@
 ---
-title: Train YOLO for Objection Detection in Pytorch using Custom Dataset
+title: Train YOLO for objection detection in pytorch using custom dataset
 date: 2020-04-12 00:00:00 +01:00
 categories:
 - ComputerVision
