@@ -1,7 +1,8 @@
 ---
 permalink: "/sw.js"
-layout: null
+layout: 
 ---
+
 const version = '{{ site.time | date: '%Y%m%d%H%M%S' }}';
 const cacheName = `static::${version}`;
 
