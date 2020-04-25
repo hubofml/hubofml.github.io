@@ -1,5 +1,5 @@
 ---
-title: Alembic
+title: HubOfMachineLearning
 timezone: Europe/London
 collections:
   posts:
@@ -55,10 +55,10 @@ lang: en-GB
 logo: "/assets/logos/logo.svg"
 description: Alembic is a starting point for Jekyll projects. Rather than starting
   from scratch, this boilerplate is designed to get the ball rolling immediately
-url: https://alembic.darn.es
+url: https://hubofml.github.io
 baseurl: 
-repo: https://github.com/daviddarnes/alembic
-email: me@daviddarnes.com
+repo: https://github.com/hubofml/hubofml.github.io
+email: hubofml@gmail.com
 css_inline: true
 favicons:
   '16': "/assets/logos/logo@16px.png"
