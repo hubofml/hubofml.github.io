@@ -77,7 +77,7 @@ navigation_header:
 - title: About
   url: "/about/"
 navigation_footer:
-- title: Created by Samuel
+- title: 
   url: https://hubofco.de
 social_links:
   Twitter: https://twitter.com/hubofml
