@@ -1,5 +1,5 @@
 ---
-title: Understanding How LSTM Networks Work
+title: Understanding how LSTM networks work
 date: 2020-04-12 00:00:00 +01:00
 categories:
 - MachineLearning
