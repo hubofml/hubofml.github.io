@@ -1,5 +1,5 @@
 ---
-title: About.md
+title: About
 date: 2020-04-25 12:26:00 +01:00
 ---
 

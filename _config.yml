@@ -5,7 +5,7 @@ collections:
   posts:
     title: Posts
     output: true
-    description: My thoughts and ideas
+    description: Hub of Machine Learning
   uploads:
     title: Uploads
     output: true
@@ -52,9 +52,8 @@ permalink: pretty
 excerpt_separator: "<!-- more -->"
 encoding: utf-8
 lang: en-GB
-logo: "/assets/logos/logo.svg"
-description: Alembic is a starting point for Jekyll projects. Rather than starting
-  from scratch, this boilerplate is designed to get the ball rolling immediately
+logo: "/assets/logos/logo.png"
+description: A one-stop place to find high-quality resources on machine learning, computer vision and data science
 url: https://hubofml.github.io
 baseurl: 
 repo: https://github.com/hubofml/hubofml.github.io
@@ -72,6 +71,8 @@ favicons:
 navigation_header:
 - title: Home
   url: "/"
+- title: Newsletter
+  url: "/newsletter"
 - title: About
   url: "/about/"
 navigation_footer:
