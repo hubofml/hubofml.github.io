@@ -3,7 +3,6 @@ title: About
 date: 2020-04-25 12:26:00 +01:00
 ---
 
-
 "Machine learning is hard”, said a friend.  As much I hate to admit it I agreed with him 2 years after.
  
 If you are taking your first steps into machine learning and data science universe, it might seem like a daunting task, sometimes intimidating. Machine learning community is growing very fast.🚀 There are  free, high quality resources 📚 that can assist your journey to become that guy that teaches computer to learn. The problem is:  these excellent resources are hard to find for beginners. 
