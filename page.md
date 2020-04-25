@@ -1,0 +1,4 @@
+---
+layout: links
+collectionpage: posts
+---
