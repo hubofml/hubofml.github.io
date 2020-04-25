@@ -1,7 +1,8 @@
 ---
-permalink: "manifest.json"
-layout: null
+permalink: manifest.json
+layout: 
 ---
+
 {
   "lang": "{{ site.lang | default: "en-US" }}",
   "name": "{{ site.title }}",
