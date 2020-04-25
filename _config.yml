@@ -56,7 +56,7 @@ logo: "/assets/logos/logo.svg"
 description: Alembic is a starting point for Jekyll projects. Rather than starting
   from scratch, this boilerplate is designed to get the ball rolling immediately
 url: https://alembic.darn.es
-baseurl: ''
+baseurl: 
 repo: https://github.com/daviddarnes/alembic
 email: me@daviddarnes.com
 css_inline: true
