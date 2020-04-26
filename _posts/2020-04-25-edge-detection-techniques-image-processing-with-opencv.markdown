@@ -1,5 +1,5 @@
 ---
-title: Edge Detection Techniques - Image Processing with OpenCV
+title: Edge detection techniques - Image processing with OpenCV
 date: 2020-04-25 11:51:00 +01:00
 categories:
 - ComputerVision

@@ -53,7 +53,8 @@ excerpt_separator: "<!-- more -->"
 encoding: utf-8
 lang: en-GB
 logo: "/assets/logos/logo.png"
-description: A one-stop place to find high-quality resources on machine learning, computer vision and data science
+description: A one-stop place to find high-quality resources on machine learning,
+  computer vision and data science
 url: https://hubofml.github.io
 baseurl: 
 repo: https://github.com/hubofml/hubofml.github.io
@@ -76,8 +77,8 @@ navigation_header:
 - title: About
   url: "/about/"
 navigation_footer:
-- title: Created by Samuel
-  url: https://hubofco.de
+- title: 
+  url: https://hubofml.github.io
 social_links:
   Twitter: https://twitter.com/hubofml
 sharing_links:
