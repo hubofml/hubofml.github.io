@@ -9,7 +9,7 @@ If you are taking your first step into machine learning and data science univers
 
 I created **hubofml** to collate top-notch links to free materials that I find on the internet on **machine learning**, **computer vision**, and **data science** on a weekly basis. These links have been read by humans (no automation work involved), vetted to be spot-on, and useful.
 
-The goal of hubofml is to make getting into machine learning a fun and exciting 🤪 one for you.  You can get involved by suggesting high-quality content that might help others to [hubofml](maito:hubofml@gmail.com).
+The goal of hubofml is to make getting into machine learning fun🤪 for you.  You can get involved by suggesting high-quality content that might help others to [hubofml](maito:hubofml@gmail.com).
 
 You can follow [hubofml](https://twitter.com/hubofml) on twitter, every minute [@hubofml ](https://twitter.com/hubofml)bot is tweeting and retweeting updates that can help your growth.
 
