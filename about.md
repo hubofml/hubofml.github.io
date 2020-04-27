@@ -11,7 +11,7 @@ I created **hubofml** to collate top-notch links to free materials that I find o
 
 The goal of hubofml is to make getting into machine learning fun🤪 for you.  You can get involved by suggesting high-quality content that might help others to [hubofml](maito:hubofml@gmail.com).
 
-You can follow [hubofml](https://twitter.com/hubofml) on twitter, every minute [@hubofml ](https://twitter.com/hubofml)bot is tweeting and retweeting updates that can help your growth.
+Every minute [@hubofml ](https://twitter.com/hubofml)bot is tweeting and retweeting updates that can help your growth. You can't go wrong by following [hubofml](https://twitter.com/hubofml).
 
 If you enjoy hubofml and would like to buy me a coffee, please click on the button below. 
 
