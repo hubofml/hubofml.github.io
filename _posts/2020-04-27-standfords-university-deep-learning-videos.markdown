@@ -8,7 +8,7 @@ excerpt: 'The COVID-19 outbreak has affected how we live; if you''re like me, yo
   made some of her deep learning courses available for free on youtube.
 
 '
-external_links: https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
+external_link: https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
 ---
 
 [CS230](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
