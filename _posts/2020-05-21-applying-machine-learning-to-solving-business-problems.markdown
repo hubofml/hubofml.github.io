@@ -1,5 +1,5 @@
 ---
-title: Applying Machine Learning to Solving Business Problems
+title: How to Apply Machine Learning to Solve Business Problems
 date: 2020-05-21 09:03:00 +01:00
 categories:
 - MachineLearning
