@@ -14,7 +14,13 @@
 
   {% elsif page.layout == "categories" %}
     <section class="section  section--category-index">
-      <h3>Index</h3>
+      <h3>Categories</h3>
+      {% include nav-categories.html %}
+    </section>
+
+    {% elsif page.layout == "links" %}
+    <section class="section  section--category-index">
+      <h3>Categories</h3>
       {% include nav-categories.html %}
     </section>
 
