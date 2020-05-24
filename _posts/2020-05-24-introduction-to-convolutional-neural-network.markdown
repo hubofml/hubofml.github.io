@@ -8,6 +8,6 @@ tags:
 excerpt: CNN’s are a class of Neural Networks that have proven very effective in areas
   of image recognition, processing, and classification. In this article, you will
   understand convolutional neural networks (CNN’s) on a high level.
-external_links: https://vinodsblog.com/2018/10/15/everything-you-need-to-know-about-convolutional-neural-networks/
+external_link: https://vinodsblog.com/2018/10/15/everything-you-need-to-know-about-convolutional-neural-networks/
 ---
 
