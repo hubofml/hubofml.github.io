@@ -5,6 +5,6 @@ categories:
 - MachineLearning
 excerpt: What do neural network embeddings mean? Will Koehrsen showed what neural
   network embeddings are and how they are learned.
-external_links: https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526
+external_link: https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526
 ---
 

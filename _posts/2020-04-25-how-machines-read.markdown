@@ -5,6 +5,6 @@ categories:
 - MachineLearning
 excerpt: On Floyhub's blog, Cathal Horan wrote an interesting post on how machines
   learn to read. Learn the concept of word tokenization
-external_links: https://blog.floydhub.com/tokenization-nlp/
+external_link: https://blog.floydhub.com/tokenization-nlp/
 ---
 
